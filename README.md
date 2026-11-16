@@ -1,5 +1,7 @@
 # frontend-architecture
 
+[![CI](https://github.com/smrafi4130/frontend-architecture/actions/workflows/docs.yml/badge.svg)](https://github.com/smrafi4130/frontend-architecture/actions/workflows/docs.yml)
+
 Case studies and decision records on designing, scaling and operating frontend systems.
 Each document states the question, the options with their trade-offs, a decision rule, and, where it exists, a link to code that implements it.
 
